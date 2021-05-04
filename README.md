@@ -1,1 +1,3 @@
-# Logo-with-Dom_canvasgit
+# Logo-with-Dom_canvas
+
+How to draw shapes with canvas by Dom Concept
