@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkslategray;
+    color: floralwhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+canvas{
+    margin-top: 10px;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
